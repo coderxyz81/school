@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #1e3a8a; /* blue-900 */
+  --secondary-color: #eab308; /* yellow-500 */
+  --text-color: #1f2937; /* gray-800 */
+  --background-color: #f3f4f6; /* gray-100 */
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* For slick slider */
+.slick-dots li button:before {
+  font-size: 12px;
+  color: var(--primary-color);
+  opacity: 0.25;
+}
+
+.slick-dots li.slick-active button:before {
+  opacity: 0.75;
+  color: var(--primary-color);
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: var(--primary-color);
+}
+
+/* For aspect ratio on map */
+.aspect-w-16 {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.aspect-w-16 iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
