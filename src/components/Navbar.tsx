@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
             <img className='scale-75'
-          src="public/HUMANITY PUBLIC SCHOOL LOGO - COREL 12 PNG OG.png"
+          src="HUMANITY PUBLIC SCHOOL LOGO - COREL 12 PNG OG.png"
           alt="Logo"
           style={{ width: '55px' ,height:'auto',  }}   // Adjust width as needed
          />

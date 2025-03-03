@@ -10,7 +10,7 @@ interface NewsCardProps {
 
 const NewsCard: React.FC<NewsCardProps> = ({ title, date, summary, imageUrl }) => {
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:shadow-lg hover:-translate-y-1">
+    <div className="bg-white rounded-lg -md overflow-hidden transition-transform duration-300 hover:shadow-lg hover:-translate-y-1">
       {imageUrl && (
         <img 
           src={imageUrl} 

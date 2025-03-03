@@ -49,7 +49,7 @@ const Academics = () => {
             </div>
             <div>
               <img 
-                src="public/YOGA.jpg" 
+                src="YOGA.jpg" 
                 alt="Students in classroom" 
                 className="rounded-lg shadow-lg w-full h-auto"
               />
