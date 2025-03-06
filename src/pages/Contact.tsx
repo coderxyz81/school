@@ -30,22 +30,22 @@ const Contact = () => {
                     <MapPin className="h-5 w-5 text-blue-900 mr-3 mt-0.5" />
                     <div>
                       <span className="font-medium">Address:</span>
-                      <p className="text-gray-700">123 Education Lane, Knowledge City, State 12345</p>
+                      <p className="text-gray-700">181133 Bassi-kalan,Bari Brahmana,samba</p>
                     </div>
                   </li>
                   <li className="flex items-start">
                     <Phone className="h-5 w-5 text-blue-900 mr-3 mt-0.5" />
                     <div>
                       <span className="font-medium">Phone:</span>
-                      <p className="text-gray-700">Main Office: +1 (555) 123-4567</p>
-                      <p className="text-gray-700">Admissions: +1 (555) 123-4568</p>
+                      <p className="text-gray-700">Main Office: +917051578157 </p>
+                      <p className="text-gray-700">Admissions: +919906525984</p>
                     </div>
                   </li>
                   <li className="flex items-start">
                     <Mail className="h-5 w-5 text-blue-900 mr-3 mt-0.5" />
                     <div>
                       <span className="font-medium">Email:</span>
-                      <p className="text-gray-700">info@humanitypublicschool.edu</p>
+                      <p className="text-gray-700">hpsbsk@gmail.com</p>
                       <p className="text-gray-700">admissions@humanitypublicschool.edu</p>
                     </div>
                   </li>
@@ -53,8 +53,8 @@ const Contact = () => {
                     <Clock className="h-5 w-5 text-blue-900 mr-3 mt-0.5" />
                     <div>
                       <span className="font-medium">Office Hours:</span>
-                      <p className="text-gray-700">Monday - Friday: 8:00 AM - 4:30 PM</p>
-                      <p className="text-gray-700">Saturday: 9:00 AM - 12:30 PM</p>
+                      <p className="text-gray-700">Monday - Friday: 9:00 AM - 4:00 PM</p>
+                      <p className="text-gray-700">Saturday: 9:00 AM - 4:00 PM</p>
                       <p className="text-gray-700">Sunday: Closed</p>
                     </div>
                   </li>
@@ -73,10 +73,10 @@ const Contact = () => {
                   <a href="#" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
                     <Twitter size={24} />
                   </a>
-                  <a href="#" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
+                  <a href="https://www.instagram.com/humanitypublicschool/" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
                     <Instagram size={24} />
                   </a>
-                  <a href="#" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
+                  <a href="https://www.youtube.com/@humanitypublicschool1659" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
                     <Youtube size={24} />
                   </a>
                 </div>
@@ -125,7 +125,7 @@ const Contact = () => {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-lg font-bold text-blue-900 mb-2">What are the school hours?</h3>
               <p className="text-gray-700">
-                Our school hours are from 8:00 AM to 3:30 PM, Monday through Friday. The school office is open from 8:00 AM to 4:30 PM on weekdays and from 9:00 AM to 12:30 PM on Saturdays.
+                Our school hours are from 9:00 AM to 3:30 PM, Monday through Friday. The school office is open from 8:00 AM to 4:30 PM on weekdays and from 9:00 AM to 12:30 PM on Saturdays.
               </p>
             </div>
             
@@ -146,7 +146,7 @@ const Contact = () => {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-lg font-bold text-blue-900 mb-2">How can I schedule a campus tour?</h3>
               <p className="text-gray-700">
-                You can schedule a campus tour by contacting our Admission Office at +1 (555) 123-4568 or sending an email to admissions@humanitypublicschool.edu. Campus tours are available on weekdays between 9:00 AM and 2:00 PM, subject to prior appointment.
+                You can schedule a campus tour by contacting our Admission Office at +917051578157 or sending an email to admissions@humanitypublicschool.edu. Campus tours are available on weekdays between 9:00 AM and 2:00 PM, subject to prior appointment.
               </p>
             </div>
             

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, Mail, MapPin, Facebook, Twitter, Instagram, Youtube, GraduationCap } from 'lucide-react';
-
+``
 const Footer = () => {
   return (
     <footer className="bg-blue-900 text-white pt-10 pb-6">
@@ -14,19 +14,19 @@ const Footer = () => {
               <span className="font-bold text-xl">Humanity Public School</span>
             </div>
             <p className="text-gray-300 mb-4">
-              Nurturing minds, building character, and inspiring excellence since 1995.
+              Nurturing minds, building character, and inspiring excellence since 1981.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.facebook.com/HPSCHOOL/" className="text-gray-300 hover:text-white">
                 <Facebook size={20} />
               </a>
               <a href="#" className="text-gray-300 hover:text-white">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.instagram.com/humanitypublicschool/" className="text-gray-300 hover:text-white">
                 <Instagram size={20} />
               </a>
-              <a href="#" className="text-gray-300 hover:text-white">
+              <a href="https://www.youtube.com/@humanitypublicschool1659" className="text-gray-300 hover:text-white">
                 <Youtube size={20} />
               </a>
             </div>
@@ -67,8 +67,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">School Hours</h3>
             <ul className="space-y-2 text-gray-300">
-              <li>Monday - Friday: 8:00 AM - 3:30 PM</li>
-              <li>Saturday: 8:00 AM - 3:30 PM</li>
+             <li>Monday - saturday: 8:00 AM - 3:30PM</li>
+              
+
+
               <li>Sunday: Closed</li>
               <li>Office Hours: 9:00 AM - 4:00 PM</li>
             </ul>

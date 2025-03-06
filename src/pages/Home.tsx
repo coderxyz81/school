@@ -92,11 +92,12 @@ const Home = () => {
               <p className="font-bold text-blue-900">
                 MR.GAURAV CHARK<br />
                 Principal, Humanity Public School
+
               </p>
             </div>
             <div className="flex justify-center">
               <img 
-                src="PRINCIPAL SIR.jpg" 
+                src="PRINCIPAL SIR.jpg" width={200}
                 alt="Principal MR Gaurav chark" 
                 className="rounded-lg shadow-lg max-w-full h-auto md:scale-150"
               />
