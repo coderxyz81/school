@@ -210,7 +210,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">1981</div>
+              <div className="text-4xl font-bold mb-2">1987</div>
               <p className="text-blue-200">Established</p>
             </div>
             <div>
