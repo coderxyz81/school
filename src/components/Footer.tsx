@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="font-bold text-xl">Humanity Public School</span>
             </div>
             <p className="text-gray-300 mb-4">
-              Nurturing minds, building character, and inspiring excellence since 1987.
+              Nurturing minds, building character, and inspiring excellence since 1981.
             </p>
             <div className="flex space-x-4">
               <a href="https://www.facebook.com/HPSCHOOL/" className="text-gray-300 hover:text-white">

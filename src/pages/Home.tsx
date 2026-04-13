@@ -58,7 +58,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-bold text-blue-900 mb-6">Welcome to Humanity Public School</h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto mb-8">
-            Nurturing minds, building character, and inspiring excellence through holistic education since 1995.
+            Nurturing minds, building character, and inspiring excellence through holistic education since 1981.
           </p>
           <div className="flex justify-center">
             <Link to="/admissions" className="bg-blue-900 text-white py-3 px-6 rounded-md hover:bg-blue-800 transition-colors mr-4">
@@ -210,7 +210,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">1987</div>
+              <div className="text-4xl font-bold mb-2">1981</div>
               <p className="text-blue-200">Established</p>
             </div>
             <div>
