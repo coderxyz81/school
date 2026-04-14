@@ -26,7 +26,7 @@ const Footer = () => {
               <a href="https://www.instagram.com/humanitypublicschool/" className="text-gray-300 hover:text-white">
                 <Instagram size={20} />
               </a>
-              <a href="https://www.youtube.com/@humanitypublicschool1659" className="text-gray-300 hover:text-white">
+              <a href="https://www.youtube.com/@humanitypublicschool1981" className="text-gray-300 hover:text-white">
                 <Youtube size={20} />
               </a>
             </div>

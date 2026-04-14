@@ -76,7 +76,7 @@ const Contact = () => {
                   <a href="https://www.instagram.com/humanitypublicschool/" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
                     <Instagram size={24} />
                   </a>
-                  <a href="https://www.youtube.com/@humanitypublicschool1659" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
+                  <a href="https://www.youtube.com/@humanitypublicschool1981" className="bg-blue-100 p-3 rounded-full text-blue-900 hover:bg-blue-200 transition-colors">
                     <Youtube size={24} />
                   </a>
                 </div>
